@@ -27,7 +27,7 @@
 //UltraSonic sensor define
 #define SONIC_DDR DDRE
 #define SONIC_PORT PORTE
-#define TRIG1 6  // srf04-1 트리거                                                                    // srf04-1 트리거
+#define TRIG1 6  // srf04-1 트리거                                                        
 #define ECHO1 7  // srf04-1 에코
 #define TRIG2 4 // srf04-2 트리거
 #define ECHO2 5  // srf04-2 에코
