@@ -2,7 +2,7 @@
  * LCD.c
  * LCD 동작 함수 그룹
  * Created: 2019-09-24 오후 7:49:32
- *  Author: jong oh Park
+ *  Author: 1723522 정윤수
  */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
